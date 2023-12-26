@@ -30,5 +30,6 @@
   "ad_splash": "",
   "loading_time": 10,
   "kakao": "0a07408461fd9d7a08e587c651bb635b",
-  "nihaohao": "123"
+  "nihaohao": "123",
+   "huahua": "123"
 }
